@@ -32,7 +32,7 @@ export function Sidebar() {
             <FlaskConical className="h-5 w-5 text-primary-foreground" />
           </div>
           <div>
-            <h1 className="font-bold text-lg text-sidebar-foreground">LabFlow</h1>
+            <h1 className="font-bold text-lg text-sidebar-foreground">Lab</h1>
             <p className="text-xs text-muted-foreground">LIMS System</p>
           </div>
         </div>
