@@ -63,8 +63,8 @@ export function Sidebar() {
         <div className="border-t border-sidebar-border p-4">
           <div className="rounded-lg bg-accent/50 p-3">
             <p className="text-xs font-medium text-accent-foreground">Lab Information</p>
-            <p className="mt-1 text-xs text-muted-foreground">MediLab Diagnostics</p>
-            <p className="text-xs text-muted-foreground">License: LAB-2024-001</p>
+            <p className="mt-1 text-xs text-muted-foreground">LIMS Diagnostics</p>
+            {/* <p className="text-xs text-muted-foreground">License: LAB-2024-001</p> */}
           </div>
         </div>
       </div>
